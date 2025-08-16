@@ -1,0 +1,103 @@
+<Defs>
+
+  <!-- Ambient / HorrorRelax -->
+  <MusicSequenceDef>
+    <defName>HorrorRelax</defName>
+    <loopDelayRange>1~2</loopDelayRange>
+    <fadeoutLastSongDuration>5</fadeoutLastSongDuration>
+    <minTimeToPlay>30</minTimeToPlay>
+    <loop>true</loop>
+    <songs>
+      <li>Absolution</li>
+      <li>Adrift</li>
+      <li>Ancient_Dynasty</li>
+      <li>Ancient_Mystery</li>
+      <li>Barren</li>
+      <li>Beyond_the_Nightmare</li>
+      <li>Call_of_the_Unknown</li>
+      <li>Darkness_Between_the_Stars</li>
+      <li>Death_of_a_Legend</li>
+      <li>Edge_of_Daybreak</li>
+      <li>End_of_the_Journey</li>
+      <li>Footfallen</li>
+      <li>Howl_of_the_Wastes</li>
+      <li>Icebound</li>
+      <li>Isha_s_Tears</li>
+      <li>Light_of_Stolen_Stars</li>
+      <li>Magnae_Accessio</li>
+      <li>Maiden_World</li>
+      <li>Nomos_Are_Here</li>
+      <li>Our_Endless_March</li>
+      <li>Planetfall</li>
+      <li>Primordial_Truth</li>
+      <li>Semper_Servientes_Main_Theme</li>
+      <li>Shadow_of_the_Inevitable</li>
+      <li>Shadow_Quarters</li>
+      <li>Shadows_of_Commorragh</li>
+      <li>Sparks_in_the_Dark</li>
+      <li>Spires_of_the_Hive</li>
+      <li>The_Benevolent_Triumph</li>
+      <li>The_Chasm</li>
+      <li>The_Emergence</li>
+      <li>The_Empyrean_Beckons</li>
+      <li>The_Expanse</li>
+      <li>The_Great_Sleep_Is_Over</li>
+      <li>The_Imperium</li>
+      <li>The_Maelstrom</li>
+      <li>The_Veil_Is_Broken</li>
+      <li>Together_We_Stand</li>
+      <li>Unfathomable</li>
+      <li>Void_Dragon</li>
+      <li>Voidborn</li>
+      <li>When_the_Stars_Tremble</li>
+      <li>Whispers_of_the_Changer</li>
+      <li>Wyches_Grounds</li>
+    </songs>
+  </MusicSequenceDef>
+
+  <!-- Tension / HorrorTension -->
+  <MusicSequenceDef>
+    <defName>HorrorTension</defName>
+    <loopDelayRange>1~2</loopDelayRange>
+    <fadeoutLastSongDuration>5</fadeoutLastSongDuration>
+    <minTimeToPlay>30</minTimeToPlay>
+    <loop>true</loop>
+    <songs>
+      <li>Boarded</li>
+      <li>Broadside_Cannonade</li>
+      <li>Clash_of_Convictions</li>
+      <li>Conqueror_s_Demise</li>
+      <li>Curse_of_the_Yekhmet</li>
+      <li>Death_s_Play</li>
+      <li>Depths_of_the_Tomb</li>
+      <li>Dirge_for_the_Fallen</li>
+      <li>Dock_Alpha_Rho_Skirmish</li>
+      <li>Hanged_Man_s_Lot</li>
+      <li>Imperium_s_Bastion</li>
+      <li>Into_the_Thicket</li>
+      <li>Janusian_Fray</li>
+      <li>Liege_s_Hand</li>
+      <li>Martyr_s_Endurance</li>
+      <li>Precipice_of_Damnation</li>
+      <li>Reaving_Tempest</li>
+      <li>Scions_of_Lorgar</li>
+      <li>Scuffle_on_the_Deck</li>
+    </songs>
+  </MusicSequenceDef>
+
+  <!-- Combat / HorrorCombat -->
+  <MusicSequenceDef>
+    <defName>HorrorCombat</defName>
+    <loopDelayRange>1~2</loopDelayRange>
+    <fadeoutLastSongDuration>5</fadeoutLastSongDuration>
+    <minTimeToPlay>30</minTimeToPlay>
+    <loop>true</loop>
+    <songs>
+      <li>Annihilation</li>
+      <li>Blades_in_the_Void</li>
+      <li>Wrath_of_the_Lost</li>
+      <li>Void_Damned</li>
+    </songs>
+  </MusicSequenceDef>
+
+</Defs>
